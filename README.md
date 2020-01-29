@@ -24,6 +24,10 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Telecommunications-Books/blob/master/tlj(14).pdf" style="text-decoration:none;">The Essential Guide to Telecommunications</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Telecommunications-Books/blob/master/tlj(15).pdf" style="text-decoration:none;">Modern Telecommunications: Basic Principles and Practices</a></b></li>
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Telecommunications-Books/blob/master/tlj(16).pdf" style="text-decoration:none;">The Telecommunications Challenge: Changing Technologies and Evolving Policies </a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Telecommunications-Books/blob/master/tlj(17).pdf" style="text-decoration:none;">Telecommunication Transmission Systems</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Telecommunications-Books/blob/master/tlj(18).pdf" style="text-decoration:none;">Telecommunications: glossary of telecommunication terms</a></b></li>
  
  
  
