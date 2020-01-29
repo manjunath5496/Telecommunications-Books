@@ -4,7 +4,7 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Telecommunications-Books/blob/master/tlj(1).pdf" style="text-decoration:none;">The Liberalisation of the Telecommunications Sector in Sub-Saharan Africa and Fostering Competition in Telecommunications Services Markets </a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Telecommunications-Books/blob/master/tlj(2).pdf" style="text-decoration:none;">Competitive Telecommunications: How to Thrive Under the Telecommunications Act</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Telecommunications-Books/blob/master/tjl(2).pdf" style="text-decoration:none;">Competitive Telecommunications: How to Thrive Under the Telecommunications Act</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Telecommunications-Books/blob/master/tlj(3).pdf" style="text-decoration:none;">Understanding Telecommunications Networks</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Telecommunications-Books/blob/master/tlj(4).pdf" style="text-decoration:none;">The Telecommunications Handbook</a></b></li>                              
